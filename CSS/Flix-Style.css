@@ -1,0 +1,50 @@
+body {
+    margin: 3px 3px 3px 3px;
+    background-color: rgb(15, 15, 15);
+}
+table {
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+    border: 0px Solid black;
+    border-collapse: collapse;
+}
+th, td {    
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-width: 1px;
+    border-collapse: collapse;
+}
+th {
+    font-size: 22px;
+    background-color: rgb(32, 32, 32);
+    text-align: center;
+}
+td {
+    background-color: rgb(77, 13, 13);
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    background-color: rgb(95, 3, 3);
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+} 
+h3 {
+    font-size: 30px;
+    background-color: rgb(95, 3, 3);
+    padding: 0px 0px 0px 50px;
+    margin: 18px 0px 18px 0px;
+}
+p {
+    margin: 0px 0px 10px 0px;
+    color: white
+}
+img {
+    margin: 3px 7px 3px 7px
+}
+.btn-primary{
+    margin-top: 20px;
+    display: block;
+
+    text-decoration: none;
+}
