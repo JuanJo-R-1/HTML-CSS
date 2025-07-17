@@ -29,17 +29,17 @@ h1{
     text-align: center;
     margin: 0px 0px 0px 0px;
 } 
-h3 {
+h3{
     font-size: 30px;
     background-color: rgb(95, 3, 3);
     padding: 0px 0px 0px 50px;
     margin: 18px 0px 18px 0px;
 }
-p {
+p{
     margin: 0px 0px 10px 0px;
     color: white
 }
-img {
+img{
     margin: 3px 7px 3px 7px
 }
 .btn-primary{
